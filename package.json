@@ -10,7 +10,7 @@
   "version": "0.4.3",
   "license": "MIT",
   "dependencies": {
-    "async.util.identity": "0.4.3",
+    "async.util.identity": "0.5.0",
     "async.util.restparam": "0.4.3",
     "async.util.setimmediate": "0.4.3"
   },
